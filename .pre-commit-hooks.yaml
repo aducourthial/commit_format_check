@@ -9,3 +9,5 @@
     description: Tester of doctest
     entry: doctester.sh
     language: script
+    pass_filenames: true
+
