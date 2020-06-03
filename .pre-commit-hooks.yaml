@@ -3,6 +3,7 @@
     description: Validates commit format
     entry: commit_format_check.sh
     language: script
+
 -   id: doctester
     name: Doctest
     description: Tester of doctest
